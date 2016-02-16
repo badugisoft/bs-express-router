@@ -1,0 +1,22 @@
+{
+  "name": "bs-express-router",
+  "version": "0.0.1",
+  "description": "Easy router loader for express franework",
+  "main": "lib/router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badugisoft/express-router.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/badugisoft/express-router/issues"
+  },
+  "homepage": "https://github.com/badugisoft/express-router",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
